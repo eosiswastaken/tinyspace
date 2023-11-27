@@ -3,9 +3,6 @@ A web browser game about a spacefaring journey of survival, management, trading,
 Javascript + Vite
 
 run :
-
-clone this repo
-
+clone this rep
 npm install
-
 npm run dev
